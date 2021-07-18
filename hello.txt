@@ -14,4 +14,4 @@ hello qing! hello git
 hello qing! hello git
 hello qing! hello git
 hello qing! hello git master test
-hello qing! hello git
+hello qing! hello git hot-fix test
