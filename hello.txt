@@ -16,7 +16,4 @@ hello qing! hello git
 hello qing! hello git master test
 hello qing! hello git hot-fix test
 1111111111111111111
-ssh test!!
-
-修改
 辟邪剑谱好用!
